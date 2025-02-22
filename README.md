@@ -13,3 +13,9 @@ Easing is the primary way to change the timing of your tweens. Simply changing t
 # Back out
 
 https://gsap.com/docs/v3/Eases/
+
+
+# Follow animation in GSAP EXAMPLE
+
+https://github.com/user-attachments/assets/98f06fad-38a3-49e8-b2b1-cc7222d95606
+
