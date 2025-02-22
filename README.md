@@ -12,10 +12,4 @@ Easing is the primary way to change the timing of your tweens. Simply changing t
 
 # Back out
 
-// click to modify the underlined values
-gsap.to(target, {
-duration:2.5,
-ease: "back.out(1.7)",
-y: -250
-});
-
+https://gsap.com/docs/v3/Eases/
